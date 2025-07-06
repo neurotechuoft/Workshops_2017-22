@@ -1,4 +1,4 @@
-# Intro to Neurotech: 2022
+# Intro to NeurotechUofT: 2022
 This undergraduate-level workshop series will introduce you to all the topics you'll need to get started on your own neurotech projects! There are **no prerequisites**—we'll be building neurotech skills from the ground up.
 
 
